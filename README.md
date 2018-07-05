@@ -22,3 +22,9 @@ ITPS is meant to be a complete replacement for SSL/TLS (OpenSSL) and GnuPG provi
     * validation (digitally signed)
 
 ITPS is meant as the network protocol underpinning the [MyDroid](https://github.com/varasys/MyDroid) and [MyCloud](https://github.com/varasys/MyCloud) projects.
+
+## Team Skills Needed
+1. Network Protocol Developer (consider whether WireGuard provides a starting point for this?)
+2. Linux Kernel Developer (for kernel modules - again, WireGuard seems to have figured this out)
+3. Cryptography Expert (to validate implementation)
+4. Networking Engineers (to finalize network discovery, routing, etc.)
